@@ -1,0 +1,10 @@
+// Archivo: application.fam
+{
+  "name": "Hola",
+  "description": "Una aplicación de prueba que muestra Hola",
+  "version": "1.0.0",
+  "build": "application",
+  "sources": ["main.c"],
+  "resources": [],
+  "api": ["furi-hal-rtc", "gui"]
+}
